@@ -25,7 +25,7 @@
 
 - 📧 Email: [tinsaegetachew@gmail.com](mailto:tinsaegetachew@gmail.com)
 - 🐦 Twitter/X: [@tinsu_tony](https://twitter.com/tinsu_tony)
-- 🌐 GitHub: [Tinsas Getachew](https://github.com/yourusername)
+- 🌐 GitHub: [Tinsu-tony](https://github.com/yourusername)
 
 ---
 
@@ -39,7 +39,7 @@
 
 ## 📈 GitHub Stats
 
-![Tinsas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Tinsu-tony](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
